@@ -1,0 +1,6 @@
+[submodule "VTX/tinyOSD"]
+	path = VTX/tinyOSD
+	url = https://github.com/fishpepper/tinyOSD.git
+[submodule "VTX/tinyFINITY"]
+	path = VTX/tinyFINITY
+	url = https://github.com/fishpepper/tinyFINITY.git
