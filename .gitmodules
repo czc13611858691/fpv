@@ -1,3 +1,9 @@
 [submodule "VTX/tinyFINITY"]
-	path = VTX/tinyFINITY
+	path = VTX/pcb/tinyFINITY
 	url = https://github.com/fishpepper/tinyFINITY.git
+[submodule "ESC/code/BLHeli"]
+	path = ESC/code/BLHeli
+	url = https://github.com/bitdump/BLHeli.git
+[submodule "flightControl/code/betaflight"]
+	path = flightControl/code/betaflight
+	url = https://github.com/betaflight/betaflight.git
