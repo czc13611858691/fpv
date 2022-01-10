@@ -12,4 +12,4 @@
 	url = https://github.com/fishpepper/tinyOSD.git
 [submodule "remoteControl/STM32_RC_Transmitter"]
 	path = remoteControl/STM32_RC_Transmitter
-	url = https://gitee.com/J20RC/STM32_RC_Transmitter.git
+url=https://github.com/J20RC/STM32_RC_Transmitter
