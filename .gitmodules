@@ -7,3 +7,6 @@
 [submodule "flightControl/code/betaflight"]
 	path = flightControl/code/betaflight
 	url = https://github.com/betaflight/betaflight.git
+[submodule "VTX/code/tinyOSD"]
+	path = VTX/code/tinyOSD
+	url = https://github.com/fishpepper/tinyOSD.git
