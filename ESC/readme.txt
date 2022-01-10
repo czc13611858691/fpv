@@ -1,6 +1,6 @@
 ESC -- electronic speed controller 电调
 
-开源电调 BLHeLi
+开源电调固件 BLHeLi
 
 github仓库
 https://github.com/bitdump/BLHeli
