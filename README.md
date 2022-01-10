@@ -1,10 +1,10 @@
 # fpv
 穿越机note
 
-CC3D  https://opwiki.readthedocs.io/en/latest/user_manual/cc3d/cc3d.html
-
-NAZE飞控
-
-BEHeLi 无刷电调
-
+ESC 电调
+flightControl 飞控
+motor 电机
+rack 机架
+remoteControl 遥控
+RX 接收机
 VTx 图传
