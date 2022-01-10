@@ -5,6 +5,9 @@ ESC -- electronic speed controller 电调
 github仓库
 https://github.com/bitdump/BLHeli
 
+拉取
+git submodule update
+
 原理图
 https://www.facebook.com/echowiifc/posts/anyone-interested-on-this-esc-schematici-am-going-to-build-it-and-try-it-out-it-/1327148927672588/
 
