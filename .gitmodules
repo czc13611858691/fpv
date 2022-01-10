@@ -19,3 +19,6 @@
 [submodule "RX/STM32F1_Receiver"]
 	path = RX/STM32F1_Receiver
 	url = https://github.com/J20RC/STM32F1_Receiver.git
+[submodule "receiveScreen/rx5808-pro-diversity"]
+	path = receiveScreen/rx5808-pro-diversity
+	url = https://github.com/sheaivey/rx5808-pro-diversity.git
