@@ -17,6 +17,12 @@ https://item.taobao.com/item.htm?spm=a230r.1.14.7.12317d23frGL61&id=603357098902
 https://zhuanlan.zhihu.com/p/20711031
 
 电机
+
+购买链接
+https://item.taobao.com/item.htm?spm=a1z0k.7385961.1997985097.d4918997.53113779ZjUABo&id=567853614947&_u=t2dmg8j26111
+
+6.8元*4=28元
+
 2205 1800KV
 定子直径22mm 高度5mm
 每增加1V电压，转速增加1800转/分钟
